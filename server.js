@@ -19,8 +19,8 @@ app.get('/about', (req, res) => {
 });
 
 // Catch all other routes
-app.all('*', (req, res) => {
-  res.status(404).send('404 - Page not found');
+app.use((req, res) => {
+    res.status(404).send("404 - Page not found");
 });
 
 // Start the server
