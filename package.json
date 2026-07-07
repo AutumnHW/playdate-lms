@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/AutumnHW/playdate-lms#readme",
   "dependencies": {
-    "express": "^5.2.1"
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "pg": "^8.22.0"
   }
 }
