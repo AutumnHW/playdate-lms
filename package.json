@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AutumnHW/playdate-lms/issues"
   },
-  "homepage": "https://github.com/AutumnHW/playdate-lms#readme"
+  "homepage": "https://github.com/AutumnHW/playdate-lms#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
