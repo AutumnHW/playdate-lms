@@ -1,0 +1,19 @@
+{
+  "name": "playdate-lms",
+  "version": "0.0.1",
+  "description": "Library Managment System, designed for large software collections.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AutumnHW/playdate-lms.git"
+  },
+  "author": "Autumn Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AutumnHW/playdate-lms/issues"
+  },
+  "homepage": "https://github.com/AutumnHW/playdate-lms#readme"
+}
